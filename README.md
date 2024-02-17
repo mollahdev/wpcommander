@@ -1,1 +1,1 @@
-# wpcommander
+# wp-commander
